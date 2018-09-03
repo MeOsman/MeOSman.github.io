@@ -1946,18 +1946,6 @@ body {
 .cid-r2zGmlSP9W .price-term {
   color: #ff3366;
 }
-.cid-r2ANKPxfWR {
-  background: #ffffff;
-}
-.cid-r2ANKPxfWR .video-block {
-  margin: auto;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
-  .cid-r2ANKPxfWR .video-block {
-    width: 100% !important;
-  }
-}
 .cid-r2A7Mz6OkX {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -2025,6 +2013,18 @@ body {
     font-size: 20px !important;
   }
 }
+.cid-r2ANKPxfWR {
+  background: #ffffff;
+}
+.cid-r2ANKPxfWR .video-block {
+  margin: auto;
+  width: 100% !important;
+}
+@media (max-width: 768px) {
+  .cid-r2ANKPxfWR .video-block {
+    width: 100% !important;
+  }
+}
 .cid-r2AOX6PuWc {
   background-image: url("../../../assets/images/contact-750x500.jpg");
 }
@@ -2041,72 +2041,11 @@ body {
     padding-right: 5rem;
   }
 }
-.cid-r2ATegfLMC {
-  padding-top: 45px;
-  padding-bottom: 45px;
-  background-color: #ffffff;
+.cid-r2BssJmx27 {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2e2e2e;
 }
-@media (max-width: 767px) {
-  .cid-r2ATegfLMC .media-wrap {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-}
-.cid-r2ATegfLMC .media-wrap .mbr-iconfont-logo {
-  font-size: 7rem;
-  color: #f36;
-}
-.cid-r2ATegfLMC .media-wrap img {
-  height: 6rem;
-}
-.cid-r2ATegfLMC .mbr-text {
-  color: #767676;
-}
-@media (max-width: 767px) {
-  .cid-r2ATegfLMC .footer-lower .copyright {
-    margin-bottom: 1rem;
-    text-align: center;
-  }
-}
-.cid-r2ATegfLMC .footer-lower hr {
-  margin: 1rem 0;
-  border-color: #000;
-  opacity: .05;
-}
-.cid-r2ATegfLMC .footer-lower .social-list {
-  padding-left: 0;
-  margin-bottom: 0;
-  list-style: none;
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: flex-end;
-  -webkit-justify-content: flex-end;
-}
-.cid-r2ATegfLMC .footer-lower .social-list .mbr-iconfont-social {
-  font-size: 1.3rem;
-  color: #232323;
-}
-.cid-r2ATegfLMC .footer-lower .social-list .soc-item {
-  margin: 0 .5rem;
-}
-.cid-r2ATegfLMC .footer-lower .social-list a {
-  margin: 0;
-  opacity: .5;
-  -webkit-transition: .2s linear;
-  transition: .2s linear;
-}
-.cid-r2ATegfLMC .footer-lower .social-list a:hover {
-  opacity: 1;
-}
-@media (max-width: 767px) {
-  .cid-r2ATegfLMC .footer-lower .social-list {
-    justify-content: center;
-    -webkit-justify-content: center;
-  }
-}
-.cid-r2ATegfLMC .copyright > p B {
-  color: #fc6929;
-}
-.cid-r2ATegfLMC .copyright > p {
-  color: #000000;
+.cid-r2BssJmx27 .media-container-row .mbr-text {
+  color: #ffffff;
 }
